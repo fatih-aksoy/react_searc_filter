@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is [Kurtlar_Vadisi](kurtlarvadisi.netlify.app).
+This project is [Kurtlar_Vadisi](https://kurtlarvadisi.netlify.app/).
 
 ## Available Scripts
 
